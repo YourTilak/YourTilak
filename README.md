@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey!
+I am just a tech obsessed young man in with big dreams😇<br>
+<br>
+## My stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourtilak&theme=light&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourtilak&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ActivistTilak/ActivistTilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stuff about me<br>
+1. I am a human being ( DAYUMM TILAK THAT WAS UNEXPECTED!! )
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My coding experience<br>
+1. **Python**: 3-4 years ( yeah it seems ironic when you see my stats but my old github id got banned idk why )
+2. **Javascript**: 5-6 months
+3. **HTML**: a bit more than a year
+4. **CSS**: also a bit more than a year
