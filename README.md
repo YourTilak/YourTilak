@@ -1,5 +1,5 @@
 # Hey!
-I am just a tech obsessed young man in with big dreams😇<br>
+I am just a tech obsessed young man with big dreams😇<br>
 ![me](https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif)
 <br>
 ## My stats
