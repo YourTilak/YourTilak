@@ -7,10 +7,4 @@ I am just a tech obsessed young man with big dreams😇<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourtilak&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stuff about me<br>
-1. I am a human being ( DAYUMM TILAK THAT WAS UNEXPECTED!! )
-
-## My coding experience<br>
-1. **Python**: 3-4 years ( yeah it seems ironic when you see my stats but my old github id got banned idk why )
-2. **Javascript**: 5-6 months
-3. **HTML**: a bit more than a year
-4. **CSS**: also a bit more than a year
+know more about me from [my website](https://tilak.is-a.dev)
